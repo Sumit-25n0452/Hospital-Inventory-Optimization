@@ -69,3 +69,4 @@ pip install pandas numpy pulp matplotlib
 
 # Run the notebook
 jupyter notebook Hospital_Inventory_Management.ipynb
+
